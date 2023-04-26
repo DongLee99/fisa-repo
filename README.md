@@ -7,9 +7,8 @@
 
 ## 📄 구현 페이지
 
-<img width="1682" alt="스크린샷 2023-04-26 오전 9 52 45" src="https://user-images.githubusercontent.com/55686088/234438610-d1d57839-d164-450d-9a5b-0ecf60912366.png">
-
 <img width="1684" alt="스크린샷 2023-04-26 오전 9 52 32" src="https://user-images.githubusercontent.com/55686088/234438616-f050662b-dd54-43b8-91be-0a03ec7610a1.png">
+<img width="1682" alt="스크린샷 2023-04-26 오전 9 52 45" src="https://user-images.githubusercontent.com/55686088/234438610-d1d57839-d164-450d-9a5b-0ecf60912366.png">
 
 ## 📱 코드 소개
 
